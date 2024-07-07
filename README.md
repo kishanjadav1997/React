@@ -1,1 +1,1 @@
-Demonstration of some major react projects and some concepts.
+Demonstration of some react projects which covers all maroj react concepts.
